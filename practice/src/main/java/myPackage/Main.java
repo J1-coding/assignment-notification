@@ -18,6 +18,7 @@ public class Main {
         String privateURL;
         String studentNumber;
         String studentDept;
+        String userName;
 
 
 
